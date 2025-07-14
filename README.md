@@ -62,4 +62,4 @@ As imagens são divididas em quatro pastas, correspondentes a cada raça. Cada i
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repo.git
+   git clone https://github.com/seu-usuario/deep_dog.git
