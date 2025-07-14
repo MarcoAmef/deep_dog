@@ -1,4 +1,4 @@
-# Classificação de Raças de Cachorros com CNN e VGG16
+# Classificação de Raças de Cachorros do DogAPI com CNN e VGG16
 
 Este projeto utiliza redes neurais convolucionais (CNNs), incluindo uma arquitetura personalizada e a pré-treinada VGG16, para classificar imagens de cães em quatro raças distintas:
 
